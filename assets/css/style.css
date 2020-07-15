@@ -68,25 +68,25 @@ body {
   background-color: #ad6d06;
 }
 
-#texto_visite {
+#texto-visite {
   text-align: center;
   font-size: 15px;
   font-style: oblique;
 }
 
-#section_images {
+#section-images {
   width: 100%;
   max-width: 330px;
 }
 
-.icons_header {
+.icons-header {
   height: 100%;
   max-height: 50px;
   margin: auto;
   text-align: center;
 }
 
-.icons_header img {
+.icons-header img {
   width: 100%;
   max-width: 50px;
   padding: 5px;
